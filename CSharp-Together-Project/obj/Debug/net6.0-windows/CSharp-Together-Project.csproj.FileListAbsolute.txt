@@ -1,0 +1,13 @@
+C:\Users\sebik\Desktop\Github Project\Project 0.1v\CSharp-project\CSharp-Together-Project\obj\Debug\net6.0-windows\CSharp-Together-Project.csproj.AssemblyReference.cache
+C:\Users\sebik\Desktop\Github Project\Project 0.1v\CSharp-project\CSharp-Together-Project\obj\Debug\net6.0-windows\MainWindow.g.cs
+C:\Users\sebik\Desktop\Github Project\Project 0.1v\CSharp-project\CSharp-Together-Project\obj\Debug\net6.0-windows\App.g.cs
+C:\Users\sebik\Desktop\Github Project\Project 0.1v\CSharp-project\CSharp-Together-Project\obj\Debug\net6.0-windows\CSharp-Together-Project_MarkupCompile.cache
+C:\Users\sebik\Desktop\Github Project\Project 0.1v\CSharp-project\CSharp-Together-Project\obj\Debug\net6.0-windows\CSharp-Together-Project_MarkupCompile.lref
+C:\Users\sebik\Desktop\Github Project\Project 0.1v\CSharp-project\CSharp-Together-Project\obj\Debug\net6.0-windows\MainWindow.baml
+C:\Users\sebik\Desktop\Github Project\Project 0.1v\CSharp-project\CSharp-Together-Project\obj\Debug\net6.0-windows\CSharp-Together-Project.g.resources
+C:\Users\sebik\Desktop\Github Project\Project 0.1v\CSharp-project\CSharp-Together-Project\obj\Debug\net6.0-windows\CSharp-Together-Project.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\sebik\Desktop\Github Project\Project 0.1v\CSharp-project\CSharp-Together-Project\obj\Debug\net6.0-windows\CSharp-Together-Project.AssemblyInfoInputs.cache
+C:\Users\sebik\Desktop\Github Project\Project 0.1v\CSharp-project\CSharp-Together-Project\obj\Debug\net6.0-windows\CSharp-Together-Project.AssemblyInfo.cs
+C:\Users\sebik\Desktop\Github Project\Project 0.1v\CSharp-project\CSharp-Together-Project\obj\Debug\net6.0-windows\CSharp-Together-Project.csproj.CoreCompileInputs.cache
+C:\Users\sebik\Desktop\Github Project\Project 0.1v\CSharp-project\CSharp-Together-Project\obj\Debug\net6.0-windows\refint\CSharp-Together-Project.dll
+C:\Users\sebik\Desktop\Github Project\Project 0.1v\CSharp-project\CSharp-Together-Project\obj\Debug\net6.0-windows\CSharp-Together-Project.pdb

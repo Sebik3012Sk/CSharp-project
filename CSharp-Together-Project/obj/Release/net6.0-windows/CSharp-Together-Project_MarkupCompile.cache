@@ -1,20 +1,20 @@
 ﻿CSharp-Together-Project
-1.0.0.0
+
 
 winexe
 C#
 .cs
-C:\Users\sebik\Desktop\Github Project\Project 0.1v\CSharp-project\CSharp-Together-Project\obj\Debug\net6.0-windows\
+C:\Users\sebik\Desktop\Github Project\Project 0.1v\CSharp-project\CSharp-Together-Project\obj\Release\net6.0-windows\
 CSharp_Together_Project
 none
 false
-TRACE;DEBUG;NET;NET6_0;NETCOREAPP
+TRACE;RELEASE;NET;NET6_0;NETCOREAPP
 C:\Users\sebik\Desktop\Github Project\Project 0.1v\CSharp-project\CSharp-Together-Project\App.xaml
 11407045341
 
-51412584191
+3-1233169557
 194-2004305220
 MainWindow.xaml;
 
-False
+True
 
