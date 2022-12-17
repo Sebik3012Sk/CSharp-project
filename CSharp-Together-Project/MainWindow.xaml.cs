@@ -24,5 +24,14 @@ namespace CSharp_Together_Project
         {
             InitializeComponent();
         }
+
+        private void SubmitData(object sender , RoutedEventArgs e)
+        {
+            string username_text = login_username.Text;
+            string password_text = login_password.Password.ToString();
+
+            MainScreen main = new MainScreen(username_text , password_text);
+            main.LogIn();
+        }
     }
 }
