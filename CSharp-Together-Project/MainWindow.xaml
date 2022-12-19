@@ -5,7 +5,7 @@
         xmlns:mc="http://schemas.openxmlformats.org/markup-compatibility/2006"
         xmlns:local="clr-namespace:CSharp_Together_Project"
         mc:Ignorable="d"
-        Title="MainWindow" Height="450" Width="800" Background="#FF252525">
+        Title="Login Form App" Height="450" Width="800" Background="#FF252525">
     <Grid>
         <Grid.ColumnDefinitions>
             <ColumnDefinition Width="*"/>

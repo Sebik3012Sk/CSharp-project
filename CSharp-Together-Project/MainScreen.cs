@@ -46,6 +46,11 @@ namespace CSharp_Together_Project
 
             string data_file = "Username : " + input_username + "\n" + "Password : " + input_password;
 
+            if (!File.Exists(path))
+            {
+                File.Create(path);
+            }
+
             File.WriteAllText(path,data_file);
         }
         
@@ -53,6 +58,7 @@ namespace CSharp_Together_Project
         {
             this.GetData();
         }
+
 
     }
 }
