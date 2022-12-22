@@ -39,10 +39,12 @@ namespace CSharp_Together_Project
             if (databese[0,0] == input_username && databese[1,0] == input_password)
             {
                 MessageBox.Show("Your data is valid :D","Login Form");
+                this.runProgram();
             }
             else if (databese[0,1] == input_username && databese[1,1] == input_password)
             {
                 MessageBox.Show("Your data is valid :D", "Login Form");
+                this.runProgram();
             }
             else
             {
@@ -68,7 +70,6 @@ namespace CSharp_Together_Project
         public void LogIn()
         {
             this.GetData();
-            this.runProgram();
         }
 
 
