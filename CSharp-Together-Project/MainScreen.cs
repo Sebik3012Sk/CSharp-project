@@ -16,6 +16,11 @@ namespace CSharp_Together_Project
 
         const string path = "files/Data.txt";
 
+        public string InputUsername
+        {
+            get { return input_username; }
+        }
+
         public MainScreen(string input_username , string input_password)
         {
             this.input_username = input_username;
@@ -54,9 +59,16 @@ namespace CSharp_Together_Project
             File.WriteAllText(path,data_file);
         }
         
+        public void runProgram()
+        {
+            WindowOutput window = new WindowOutput();
+            window.Show();
+        }
+
         public void LogIn()
         {
             this.GetData();
+            this.runProgram();
         }
 
 

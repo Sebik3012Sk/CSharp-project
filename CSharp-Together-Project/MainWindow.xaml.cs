@@ -32,6 +32,7 @@ namespace CSharp_Together_Project
 
             MainScreen main = new MainScreen(username_text , password_text);
             main.LogIn();
+            
         }
     }
 }
