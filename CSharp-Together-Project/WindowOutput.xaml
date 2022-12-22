@@ -6,7 +6,18 @@
         xmlns:local="clr-namespace:CSharp_Together_Project"
         mc:Ignorable="d"
         Title="WindowOutput" Height="450" Width="800">
-    <Grid Margin="-49,0,-94,-196">
-        <WebBrowser Source="https://www.google.com" Margin="0,0,-294,-247" />
+    <Grid>
+        <Grid.ColumnDefinitions>
+            <ColumnDefinition />
+        </Grid.ColumnDefinitions>
+
+        <Grid.RowDefinitions>
+            <RowDefinition Height="*" />
+            <RowDefinition Height="350" />
+        </Grid.RowDefinitions>
+
+        <TextBox x:Name="search_input" Grid.Row="0" Grid.Column="0" Margin="0,0,218,0"></TextBox>
+        <WebBrowser x:Name="search_output" Margin="10,22,10,21" Grid.Row="1" />
+        <Button Content="Searh" FontSize="25" HorizontalAlignment="Left" Margin="562,0,0,0" VerticalAlignment="Center" Height="84" Width="238" Click="SearchData"/>
     </Grid>
 </Window>

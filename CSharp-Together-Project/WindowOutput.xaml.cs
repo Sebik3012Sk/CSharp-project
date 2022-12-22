@@ -23,5 +23,11 @@ namespace CSharp_Together_Project
         {
             InitializeComponent();
         }
+
+        private void SearchData(object sender , RoutedEventArgs e)
+        {
+            Web web = new Web(search_output, search_input.Text);
+            web.searchDataOnWeb();
+        }
     }
 }
