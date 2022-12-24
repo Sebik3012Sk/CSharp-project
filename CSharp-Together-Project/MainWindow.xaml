@@ -168,9 +168,9 @@
             <RowDefinition Height="85"></RowDefinition>
             <RowDefinition Height="*"></RowDefinition>
         </Grid.RowDefinitions>
-        
-        
-        <Button Style="{DynamicResource button_login}" Grid.Column="1" Content="Log In" HorizontalAlignment="Center" Grid.Row="3" VerticalAlignment="Top" Height="68" Width="430" Margin="0,10,0,0" FontSize="24" Foreground="White" Click="SubmitData">
+
+
+        <Button Style="{DynamicResource button_login}" Grid.Column="1" Content="Log In" HorizontalAlignment="Center" Grid.Row="3" VerticalAlignment="Center" Height="52" Width="254" FontSize="24" Foreground="White" Click="SubmitData">
             <Button.Background>
                 <RadialGradientBrush>
                     <GradientStop Color="#FF450000" Offset="1"/>
@@ -179,8 +179,8 @@
             </Button.Background>
         </Button>
 
-        <TextBlock Grid.Column="1" HorizontalAlignment="Center" TextWrapping="Wrap" Text="Login Form" VerticalAlignment="Center" Height="67" Width="430" FontSize="24" Foreground="Red" TextAlignment="Center" Margin="20" Padding="5,5,5,5"/>
-        <TextBox Style="{DynamicResource Round_textbox_username}" x:Name="login_username" Grid.Column="1" HorizontalAlignment="Center" Grid.Row="1" TextAlignment="Center" TextWrapping="Wrap" VerticalAlignment="Center" Width="430" Height="68" FontSize="16" Background="{x:Null}" BorderBrush="Red" BorderThickness="2,2,2,2" Foreground="Red" SelectionBrush="Lime" Margin="5 , 5 , 5 , 5"/>
-        <PasswordBox Padding="0,0,35,0" Style="{DynamicResource Round_textbox_password}" x:Name="login_password" Grid.Column="1" HorizontalAlignment="Center" Grid.Row="2" VerticalAlignment="Center" Width="430" Height="67" FontSize="16" Background="{x:Null}" BorderBrush="Red" BorderThickness="2,2,2,2" Foreground="#FFFC0000" Margin="5 , 5 , 5 ,5"/>
+        <TextBlock Grid.Column="1" HorizontalAlignment="Center" TextWrapping="Wrap" Text="Login Form" VerticalAlignment="Top" Height="40" Width="430" FontSize="27" Foreground="Red" TextAlignment="Center" Padding="5,5,5,5" Margin="0,21,0,0"/>
+        <TextBox Padding="10" Style="{DynamicResource Round_textbox_username}" x:Name="login_username" Grid.Column="1" HorizontalAlignment="Center" Grid.Row="1" TextWrapping="Wrap" VerticalAlignment="Center" Width="430" Height="68" FontSize="16" Background="{x:Null}" BorderBrush="Red" BorderThickness="2,2,2,2" Foreground="Red" SelectionBrush="Lime" Margin="5 , 5 , 5 , 5"/>
+        <PasswordBox Padding="10" Style="{DynamicResource Round_textbox_password}" x:Name="login_password" Grid.Column="1" HorizontalAlignment="Center" Grid.Row="2" VerticalAlignment="Center" Width="430" Height="67" FontSize="16" Background="{x:Null}" BorderBrush="Red" BorderThickness="2,2,2,2" Foreground="#FFFC0000" Margin="5 , 5 , 5 ,5"/>
     </Grid>
 </Window>
