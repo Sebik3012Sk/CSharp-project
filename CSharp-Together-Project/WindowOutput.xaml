@@ -5,7 +5,8 @@
         xmlns:mc="http://schemas.openxmlformats.org/markup-compatibility/2006"
         xmlns:local="clr-namespace:CSharp_Together_Project"
         mc:Ignorable="d"
-        Title="WindowOutput" Height="450" Width="800" Background="#FF252525">
+        Icon="img/icon.ico"
+        Title="Login Form App" Height="450" Width="800" Background="#FF252525">
     <Window.Resources>
         <SolidColorBrush x:Key="TextBox.Static.Border" Color="#FFABAdB3"/>
         <SolidColorBrush x:Key="TextBox.MouseOver.Border" Color="#FF7EB4EA"/>
@@ -129,6 +130,6 @@
             <Image Source="img/search-icon.png" Width="125" Height="59"></Image>
         </Button>
 
-        <WebBrowser Margin="20" x:Name="search_output" Grid.Column="0" Grid.Row="1" />
+        <WebBrowser Margin="20" x:Name="search_output" Grid.Column="0" Grid.Row="1" Panel.ZIndex="3" />
     </Grid>
 </Window>

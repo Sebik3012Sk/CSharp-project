@@ -78,3 +78,5 @@ C:\Users\matej\Desktop\C# together projekt\v0.2\CSharp-project\CSharp-Together-P
 C:\Users\matej\Desktop\C# together projekt\v0.2\CSharp-project\CSharp-Together-Project\obj\Debug\net6.0-windows\CSharp-Together-Project.pdb
 C:\Users\matej\Desktop\C# together projekt\v0.2\CSharp-project\CSharp-Together-Project\obj\Debug\net6.0-windows\CSharp-Together-Project.genruntimeconfig.cache
 C:\Users\matej\Desktop\C# together projekt\v0.2\CSharp-project\CSharp-Together-Project\obj\Debug\net6.0-windows\ref\CSharp-Together-Project.dll
+C:\Users\sebik\Desktop\Github Project\Project 0.2v\CSharp-project\CSharp-Together-Project\obj\Debug\net6.0-windows\MainPage.g.cs
+C:\Users\sebik\Desktop\Github Project\Project 0.2v\CSharp-project\CSharp-Together-Project\obj\Debug\net6.0-windows\MainPage.baml

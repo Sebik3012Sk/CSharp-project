@@ -9,11 +9,15 @@
   </PropertyGroup>
 
   <ItemGroup>
+    <None Remove="background-image.png" />
+    <None Remove="img\background-image.png" />
     <None Remove="img\icon.ico" />
     <None Remove="img\search-icon.png" />
   </ItemGroup>
 
   <ItemGroup>
+    <Resource Include="background-image.png" />
+    <Resource Include="img\background-image.png" />
     <Resource Include="img\icon.ico" />
     <Resource Include="img\search-icon.png" />
   </ItemGroup>
