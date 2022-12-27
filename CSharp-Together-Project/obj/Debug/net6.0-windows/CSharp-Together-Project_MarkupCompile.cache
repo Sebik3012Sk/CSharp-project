@@ -10,11 +10,11 @@ none
 false
 TRACE;DEBUG;NET;NET6_0;NETCOREAPP
 C:\Users\sebik\Desktop\Github Project\Project 0.2v\CSharp-project\CSharp-Together-Project\App.xaml
-3-2068989533
+3-1179637353
 
-8-556583448
+8-235252552
 194-2004305220
-MainPage.xaml;MainWindow.xaml;WindowOutput.xaml;
+MainPage\MainPage.xaml;MainWindow.xaml;WindowOutput\WindowOutput.xaml;
 
 False
 
